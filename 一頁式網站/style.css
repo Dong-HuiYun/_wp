@@ -1,0 +1,115 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.carousel {
+  width: 300px;
+  position: relative;
+  text-align: center;
+}
+
+.carousel-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.buttons {
+  margin-top: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  margin: 0 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; /* 控制元素間距 */
+}
+
+.carousel-image {
+  max-height: 400px;
+}
+
+
+.product-container {
+  padding: 1em;
+  background: #fff;
+}
+
+.product-image {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.price-info {
+  margin-top: 1em;
+  font-size: 18px;
+}
+
+.price {
+  color: #e74c3c;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.sold {
+  float: right;
+  color: #666;
+}
+
+.description {
+  margin-top: 1em;
+}
+
+.delivery {
+  margin-top: 1em;
+  color: #555;
+  font-size: 14px;
+}
+
+/* 固定底部購買欄 */
+.bottom-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 1em;
+  border-top: 1px solid #ccc;
+  z-index: 1000;
+}
+
+.bottom-bar button {
+  padding: 0.8em 1.5em;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+}
+
+.add-cart {
+  background: #ff8c00;
+}
+
+.buy-now {
+  background: #e74c3c;
+}

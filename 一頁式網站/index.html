@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>不鏽鋼電子秤</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="carousel">
+  <button onclick="prev()">上一張</button>
+  <img src="image/1.png" class="carousel-image" id="slide">
+  <button onclick="next()">下一張</button>
+</div>
+
+  <script>
+    const images = ["image/1.png", "image/2.png", "image/3.png"];
+    let current = 0;
+
+    function showSlide(index) {
+      const img = document.getElementById("slide");
+      img.src = images[index];
+    }
+
+    function next() {
+      current = (current + 1) % images.length;
+      showSlide(current);
+    }
+
+    function prev() {
+      current = (current - 1 + images.length) % images.length;
+      showSlide(current);
+    }
+  </script>
+      <div class="price-info">
+      <span class="price">$79</span>
+      <span class="old-price">$299</span>
+      <span class="sold">已售出 3,425</span>
+    </div>
+
+    <div class="description">
+      <h1>不鏽鋼電子秤 I2000 廚房秤</h1>
+      <p>高精度 LCD 顯示，送托盤更方便。簡易操作、中文面板，支援多單位切換。</p>
+    </div>
+
+    <div class="delivery">
+      預計配達時間：5月23日 - 5月27日｜運費：$0 起
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <button class="add-cart">加入購物車</button>
+    <button class="buy-now">直接購買</button>
+  </div>
+</body>
+</html>
