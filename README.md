@@ -9,14 +9,7 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc113b/html2server <br/> https://www.w3schools.com/
 
-繳交規定
 
-必須說明每一題的完成方法
-原創 / 參考 xxx 的 / 參考網路 (網址）的 / 使用 AI (ex:ChatGPT)
-對較難的題目進行更詳細的說明，寫 README.md
-該習題的原理，使用方法等說明
-最後兩週盡可能來現場繳交說明，若真的無法現場說明，可以拍影片說明。
-有現場或拍影片說明通常分數會比較高
 
 # 習題 1 -- 請寫一個個人網頁
 
@@ -72,8 +65,19 @@
 
 作業連結：[習題8](https://github.com/Dong-HuiYun/_wp/tree/main/%E7%AC%AC%E5%85%AD%E9%80%B1%E4%BD%9C%E6%A5%ADPython%E7%B7%B4%E7%BF%92%E9%A1%8C)
 
+
 # 習題 9: 請為 blogSignup 加上可以刪除貼文的功能
 
 作業説明：程式和美化部分詢問了Deepseek，
 
 作業連結：[習題9](https://github.com/Dong-HuiYun/_wp/tree/main/homework/%E7%BF%92%E9%A1%8C9)
+
+# 期中作業 -- 一頁式商店網站
+
+作業説明：網頁排版方面參考了蝦皮上的排版，商品圖片也是在蝦皮上找的，美工方面有部分内容詢問了deepseek，並通過引導ai逐步添加了一些内容，大部分程式碼都能理解，並添加了平滑滾動導航，可以快速找到商品界面。
+
+作業連結：
+
+[程式碼](https://github.com/Dong-HuiYun/_wp/tree/main/%E4%B8%80%E9%A0%81%E5%BC%8F%E7%B6%B2%E7%AB%99)
+
+[一頁式商店網站](https://snazzy-lolly-c8a12c.netlify.app/)
