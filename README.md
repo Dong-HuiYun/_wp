@@ -25,7 +25,9 @@
 
 作業說明：詢問了Chatgpt美化表單，參考了[github的注冊界面](https://github.com/)
 
-作業連結：[習題2](https://github.com/Dong-HuiYun/_wp/blob/main/homework/%E7%AC%AC%E4%B8%89%E9%80%B1%E8%A8%AD%E8%A8%88%E8%A8%BB%E5%86%8A%E4%BB%8B%E9%9D%A2.html)
+* 作業連結：[習題2](https://github.com/Dong-HuiYun/_wp/blob/main/homework/%E7%AC%AC%E4%B8%89%E9%80%B1%E8%A8%AD%E8%A8%88%E8%A8%BB%E5%86%8A%E4%BB%8B%E9%9D%A2.html)
+    * [線上展示](https://dong-huiyun.github.io/_wp/homework/%E7%AC%AC%E4%B8%89%E9%80%B1%E8%A8%AD%E8%A8%88%E8%A8%BB%E5%86%8A%E4%BB%8B%E9%9D%A2.html)
+
 
 `form` 創建一個註冊表單，包含三個輸入欄位：使用者名稱、電子郵件和密碼。
 
