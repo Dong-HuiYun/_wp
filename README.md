@@ -68,7 +68,7 @@
 
 # 習題 9: 請為 blogSignup 加上可以刪除貼文的功能
 
-作業説明：程式和美化部分詢問了Deepseek，
+作業説明：程式和美化部分詢問了Deepseek，貼文部分也是透過deepseek生成．
 
 作業連結：[習題9](https://github.com/Dong-HuiYun/_wp/tree/main/homework/%E7%BF%92%E9%A1%8C9)
 
