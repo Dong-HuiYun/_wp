@@ -17,7 +17,9 @@
 
 作業説明：參考了老師給的[簡易範例](https://github.com/ccckmit/_wp/blob/main/my/perosnal.html)，並對内容和程式碼做少部分的修改。
 
-作業連結：[習題1](https://github.com/Dong-HuiYun/_wp/blob/main/homework/%E7%AC%AC%E4%B8%80%E9%80%B1%E4%BD%9C%E6%A5%AD%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9.html)
+作業連結：
+* [習題1](https://github.com/Dong-HuiYun/_wp/blob/main/homework/%E7%AC%AC%E4%B8%80%E9%80%B1%E4%BD%9C%E6%A5%AD%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9.html)
+* [線上展示](https://dong-huiyun.github.io/_wp/homework/%E7%AC%AC%E4%B8%80%E9%80%B1%E4%BD%9C%E6%A5%AD%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9.html)
 
 # 習題 2 -- 請設計一個註冊表單
 
@@ -25,9 +27,9 @@
 
 作業說明：詢問了Chatgpt美化表單，參考了[github的注冊界面](https://github.com/)
 
-* 作業連結：[習題2](https://github.com/Dong-HuiYun/_wp/blob/main/homework/%E7%AC%AC%E4%B8%89%E9%80%B1%E8%A8%AD%E8%A8%88%E8%A8%BB%E5%86%8A%E4%BB%8B%E9%9D%A2.html)
-    * [線上展示](https://dong-huiyun.github.io/_wp/homework/%E7%AC%AC%E4%B8%89%E9%80%B1%E8%A8%AD%E8%A8%88%E8%A8%BB%E5%86%8A%E4%BB%8B%E9%9D%A2.html)
-
+作業連結：
+* [習題2](https://github.com/Dong-HuiYun/_wp/blob/main/homework/%E7%AC%AC%E4%B8%89%E9%80%B1%E8%A8%AD%E8%A8%88%E8%A8%BB%E5%86%8A%E4%BB%8B%E9%9D%A2.html)
+* [線上展示](https://dong-huiyun.github.io/_wp/homework/%E7%AC%AC%E4%B8%89%E9%80%B1%E8%A8%AD%E8%A8%88%E8%A8%BB%E5%86%8A%E4%BB%8B%E9%9D%A2.html)
 
 `form` 創建一個註冊表單，包含三個輸入欄位：使用者名稱、電子郵件和密碼。
 
@@ -100,6 +102,6 @@
 
 作業連結：
 
-[程式碼](https://github.com/Dong-HuiYun/_wp/tree/main/%E4%B8%80%E9%A0%81%E5%BC%8F%E7%B6%B2%E7%AB%99)
+* [程式碼](https://github.com/Dong-HuiYun/_wp/tree/main/%E4%B8%80%E9%A0%81%E5%BC%8F%E7%B6%B2%E7%AB%99)
 
-[一頁式商店網站](https://snazzy-lolly-c8a12c.netlify.app/)
+* [一頁式商店網站](https://snazzy-lolly-c8a12c.netlify.app/)
